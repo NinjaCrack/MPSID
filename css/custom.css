@@ -1,0 +1,27 @@
+.dropdown-toggle::after {
+    display:none;
+}
+.drp{
+	
+	color: white;
+}
+.drp-link{
+	color: green;
+	font-size: 18px;
+}
+.modbtn{
+background-color: #001f3f;
+color: #39CCCC;
+
+}
+.mod{
+	background-color: 	rgba(255,140,1);
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-menu{
+	   background: rgba(0,32,63,.9);
+  background: -webkit-linear-gradient(top, rgba(0,32,63,.9) 0%, rgba(0,10,20,.9) 100%);
+  background: linear-gradient(to bottom, rgba(0,32,63,.9) 0%, rgba(0,10,20,.9) 100%);
+}

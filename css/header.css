@@ -1,0 +1,37 @@
+.nav{
+   background: rgba(0,32,63,1);
+  background: -webkit-linear-gradient(top, rgba(0,32,63,1) 0%, rgba(0,10,20,1) 100%);
+  background: linear-gradient(to bottom, rgba(0,32,63,1) 0%, rgba(0,10,20,1) 100%);
+}
+.nav a{
+ color: #39CCCC;
+
+}
+.nav a:hover{
+  color: #001f3f;
+  background: rgba(57,204,204,1);
+  background: -webkit-linear-gradient(top, rgba(57,204,204,1) 0%, rgba(34,122,122,1) 100%);
+  background: linear-gradient(to bottom, rgba(57,204,204,1) 0%, rgba(34,122,122,1) 100%);
+}
+body{
+  padding-bottom:;
+
+  color: #7FDBFF;
+  background-image: url(../img/bg3.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: center;
+  
+
+
+}
+.con{
+  
+    font-size: 20px;
+     background: rgba(0,32,63,.7);
+  background: -webkit-linear-gradient(top, rgba(0,32,63,.7) 0%, rgba(0,10,20,.7) 100%);
+  background: linear-gradient(to bottom, rgba(0,32,63,.7) 0%, rgba(90,10,20,.7) 100%);
+}
+.mytoggler{
+  background-image: url(../img/menu3.png);
+}
